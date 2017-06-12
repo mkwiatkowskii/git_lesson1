@@ -18,13 +18,14 @@ header img {width: 100%;
             display: block;
 }
 
+
 nav{background-color: darkgray}
 
 nav a{}
 
 a.menu{
     display: inline-block;
-    width: 25%;
+    width: 15%;
     padding: 15px 30px;
     color: white;
     text-decoration: none;
@@ -32,9 +33,9 @@ a.menu{
 }
 
 a.menu:hover {
-    background-color: black;
+    background-color: 
 }
-.active {background-color: black}
+.active {background-color: }
 
 article {
     margin-top: 30px;
